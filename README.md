@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ersintheflyer
 - 👀 I’m interested in Aviation programs
-- 🌱 I’m currently learning kotlin for Android programına.
+- 🌱 I’m currently learning kotlin for Android programıng.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
